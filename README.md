@@ -1,5 +1,9 @@
 # test-3-tasks
-Задания для собеседования 6-5-25
+[Задания для собеседования 6-5-25](https://disk.yandex.ru/i/FEdTwIqvUgOHWA)
+
+# CV
+[Резюме визитка краткое](https://github.com/sapozhnikovv/test-3-tasks/blob/main/%D0%A1%D0%B0%D0%BF%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%92%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2_short_cv.pdf)
+[Резюме с hh](https://github.com/sapozhnikovv/test-3-tasks/blob/main/hh_cv_%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_Senior_Software_Developer_NET_C_Tech_Lead_%D0%92%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2_%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%BE%D0%B2%D0%B8%D1%87.pdf)
 
 ## Задание 1
 Компрессия и декомпрессия с предвычислением будущего размера
