@@ -3,17 +3,17 @@
 
 ## Задание 1
 Компрессия и декомпрессия с предвычислением будущего размера
-(StringCompression.cs)[https://github.com/sapozhnikovv/test-3-tasks/blob/main/SimpleStringCommpression/Algo/StringCompression.cs] 
-тесты - (UnitTest.cs)[https://github.com/sapozhnikovv/test-3-tasks/blob/main/SimpleStringCommpression/AlgoTest/UnitTest1.cs]
+[StringCompression.cs](https://github.com/sapozhnikovv/test-3-tasks/blob/main/SimpleStringCommpression/Algo/StringCompression.cs) 
+тесты - [UnitTest.cs](https://github.com/sapozhnikovv/test-3-tasks/blob/main/SimpleStringCommpression/AlgoTest/UnitTest1.cs)
 
 ## Задание 2
 Реализовано 2 решения.
-Первое решение - то что ожидается по заданию (NormalServer.cs)[https://github.com/sapozhnikovv/test-3-tasks/blob/main/FastAndSafeCounter/NormalServer/NormalServer.cs]
-Тесты - (UnitTest.cs)[https://github.com/sapozhnikovv/test-3-tasks/blob/main/FastAndSafeCounter/NormalServerTest/UnitTest1.cs]
+Первое решение - то что ожидается по заданию (NormalServer.cs](https://github.com/sapozhnikovv/test-3-tasks/blob/main/FastAndSafeCounter/NormalServer/NormalServer.cs)
+Тесты - [UnitTest.cs](https://github.com/sapozhnikovv/test-3-tasks/blob/main/FastAndSafeCounter/NormalServerTest/UnitTest1.cs)
 
 Второе решение - быстрее в  5-30 раз **за счёт использования Lock-free подхода и кольцевого буфера, где каждый элемент буфера расположен на отдельной кеш линии процессора, так получается что к каждой кеш-линии имеет доступ меньшее кол-во потоков и нет трат времени**.
-Решение - (HighLoadServer.cs)[https://github.com/sapozhnikovv/test-3-tasks/blob/main/FastAndSafeCounter/HighLoadServer/HighLoadServer.cs]
-Тесты - (UnitTest.cs)[https://github.com/sapozhnikovv/test-3-tasks/blob/main/FastAndSafeCounter/HighLoadServerTest/UnitTest1.cs]
+Решение - [HighLoadServer.cs](https://github.com/sapozhnikovv/test-3-tasks/blob/main/FastAndSafeCounter/HighLoadServer/HighLoadServer.cs)
+Тесты - [UnitTest.cs](https://github.com/sapozhnikovv/test-3-tasks/blob/main/FastAndSafeCounter/HighLoadServerTest/UnitTest1.cs)
 ![tests](https://github.com/sapozhnikovv/test-3-tasks/blob/main/FastAndSafeCounter/test.jpg)
 ### Общий бенчмарк
 
@@ -43,5 +43,5 @@
 
 
 ## Задание 3
-Обработчик - (Processor.cs)[https://github.com/sapozhnikovv/test-3-tasks/blob/main/LogStandardizer/LogStandardizer/Processor.cs]
-Файлы - (LogStandardizer/files)[https://github.com/sapozhnikovv/test-3-tasks/tree/main/LogStandardizer/LogStandardizer/files]
+Обработчик - [Processor.cs](https://github.com/sapozhnikovv/test-3-tasks/blob/main/LogStandardizer/LogStandardizer/Processor.cs)
+Файлы - [LogStandardizer/files](https://github.com/sapozhnikovv/test-3-tasks/tree/main/LogStandardizer/LogStandardizer/files)
