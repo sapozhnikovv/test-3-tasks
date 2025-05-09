@@ -47,7 +47,7 @@ namespace Algo
             buffer[position++] = c;
             if (count > 1)
             {
-                if (!count.TryFormat(buffer.Slice(position), out int written)) throw new InvalidOperationException("No space in buffer to set number in test form");
+                if (!count.TryFormat(buffer.Slice(position), out int written)) throw new InvalidOperationException("No space in buffer to set number in text form");
                 position += written;
             }
             return position;
